@@ -23,6 +23,10 @@ CS2333 ระเบียบเชิงตัวเลข (Numerical method)
 
 วิชานี้ฝึกเขียน อ่านcodeและคำนวณทางคณิตศาสตร์ที่มีความซับซ้อน เพื่อให้ลดเวลาในการคำนวณเลขจำนวนเยอะๆ
 
+CS2303 โครงสร้างข้อมูล (Data Structure )
+
+วิชานี้ฝึกเขียน อ่านcodeและคำนวณทางคณิตศาสตร์ที่มีความซับซ้อน เพื่อให้ลดเวลาในการคำนวณเลขจำนวนเยอะๆ
+
 ภาษาที่ใช้
 
 <a href="https://www.oracle.com/asean/java/technologies/downloads/#jdk25-windows"><img width="275" height="275" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/cfede014-2e88-4723-9696-35382a94115e" />
